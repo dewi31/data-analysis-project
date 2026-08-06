@@ -62,7 +62,8 @@ Business Recommendations
 
 **Visualization**
 
-![Sales Trend](images/sales_profit_trend.png)
+<img width="825" height="326" alt="image" src="https://github.com/user-attachments/assets/dabc3bd2-ab37-43db-86c0-0d7349a77d13" />
+
 
 **Finding**
 
