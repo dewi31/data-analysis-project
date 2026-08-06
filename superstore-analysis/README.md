@@ -2,27 +2,27 @@
 
 ## 📌 Project Overview
 
-This project analyzes the Superstore dataset using MySQL and Looker Studio to evaluate business performance, identify profitability opportunities, and build an interactive dashboard for decision-making.
+Proyek ini menganalisis dataset Superstore menggunakan MySQL dan Looker Studio untuk mengevaluasi kinerja bisnis, mengidentifikasi peluang peningkatan profitabilitas, serta membangun dashboard interaktif yang mendukung pengambilan keputusan bisnis.
 
 ---
 
 ## 🎯 Objectives
 
-- Analyze sales and profit performance.
-- Identify sales and profit trends.
-- Evaluate category and product performance.
-- Measure the impact of discounts on profitability.
-- Provide business recommendations based on data.
+- Menganalisis kinerja penjualan dan profit.
+- Mengidentifikasi tren penjualan dan profit dari waktu ke waktu.
+- Mengevaluasi kinerja kategori dan produk.
+- Menganalisis pengaruh diskon terhadap profitabilitas.
+- Memberikan rekomendasi bisnis berdasarkan hasil analisis data.
 
 ---
 
 ## ❓ Business Questions
 
-1. How are overall sales and profit performing?
-2. How do sales and profit change over time?
-3. Which categories and sub-categories contribute the most profit?
-4. Which products generate the highest profit?
-5. How do discounts affect profitability?
+1. Bagaimana kinerja penjualan dan profit secara keseluruhan?
+2. Bagaimana tren penjualan dan profit dari waktu ke waktu?
+3. Kategori dan sub-kategori mana yang memberikan kontribusi profit terbesar?
+4. Produk mana yang menghasilkan profit tertinggi?
+5. Bagaimana pengaruh pemberian diskon terhadap profitabilitas?
 
 ---
 
@@ -52,13 +52,13 @@ Business Recommendations
 
 ---
 
-## 📈 Business Analysis
+## 📈 Business Analysis & Findings
 
 ### 1. Sales & Profit Trend
 
 **Business Question**
 
-> How do sales and profit change over time?
+> Bagaimana tren penjualan dan profit dari waktu ke waktu?
 
 **Visualization**
 
@@ -66,8 +66,8 @@ Business Recommendations
 
 **Finding**
 
-- Sales and profit generally increased over time.
-- Several periods showed significant fluctuations that require further investigation.
+- Penjualan dan profit secara umum menunjukkan tren peningkatan selama periode analisis.
+- Terdapat beberapa periode dengan fluktuasi yang cukup signifikan sehingga perlu dianalisis lebih lanjut.
 
 ---
 
@@ -75,7 +75,7 @@ Business Recommendations
 
 **Business Question**
 
-> Which categories generate the highest sales and profit?
+> Kategori mana yang menghasilkan penjualan dan profit tertinggi?
 
 **Visualization**
 
@@ -83,8 +83,8 @@ Business Recommendations
 
 **Finding**
 
-- Technology generated the highest profit.
-- Furniture generated high sales but relatively lower profitability.
+- Kategori Technology menghasilkan profit tertinggi.
+- Kategori Furniture memiliki penjualan yang tinggi, namun profit yang dihasilkan relatif lebih rendah dibandingkan kategori lainnya.
 
 ---
 
@@ -92,7 +92,7 @@ Business Recommendations
 
 **Business Question**
 
-> Which sub-categories perform the best and worst?
+> Sub-kategori mana yang memiliki performa profit terbaik dan terendah?
 
 **Visualization**
 
@@ -100,8 +100,8 @@ Business Recommendations
 
 **Finding**
 
-- Several sub-categories consistently produced lower profit.
-- High-selling sub-categories were not always the most profitable.
+- Beberapa sub-kategori secara konsisten menghasilkan profit yang rendah.
+- Sub-kategori dengan penjualan tinggi tidak selalu menghasilkan profit yang tinggi.
 
 ---
 
@@ -109,7 +109,7 @@ Business Recommendations
 
 **Business Question**
 
-> Which products contribute the highest profit?
+> Produk mana yang memberikan kontribusi profit terbesar?
 
 **Visualization**
 
@@ -117,7 +117,7 @@ Business Recommendations
 
 **Finding**
 
-- A small number of products contributed a large portion of total profit.
+- Sebagian kecil produk memberikan kontribusi yang signifikan terhadap total profit perusahaan.
 
 ---
 
@@ -125,7 +125,7 @@ Business Recommendations
 
 **Business Question**
 
-> How do discounts affect profitability?
+> Bagaimana pengaruh pemberian diskon terhadap profitabilitas?
 
 **Visualization**
 
@@ -133,7 +133,7 @@ Business Recommendations
 
 **Finding**
 
-- Higher discounts tended to reduce average profit.
+- Peningkatan tingkat diskon cenderung diikuti dengan penurunan rata-rata profit.
 
 ---
 
@@ -154,24 +154,6 @@ The interactive dashboard summarizes all analyses into a single view for busines
 
 ---
 
-## 📂 Repository Structure
-
-```text
-📦 Superstore-Analysis
-│
-├── dataset/
-├── sql/
-│   ├── 01_data_cleaning.sql
-│   ├── 02_eda.sql
-│   ├── 03_business_analysis.sql
-│
-├── dashboard/
-│   └── superstore_dashboard
-│
-└── README.md
-```
-
----
 
 ## 👤 Author
 
