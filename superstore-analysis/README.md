@@ -80,7 +80,9 @@ Business Recommendations
 
 **Visualization**
 
-![Category](images/category_analysis.png)
+<img width="529" height="387" alt="image" src="https://github.com/user-attachments/assets/dfcc6205-6495-4950-8f5f-fb80df2a7bb6" />
+
+
 
 **Finding**
 
@@ -97,7 +99,8 @@ Business Recommendations
 
 **Visualization**
 
-![Sub Category](images/subcategory_analysis.png)
+<img width="942" height="373" alt="image" src="https://github.com/user-attachments/assets/6ad04267-add4-45d3-bdf3-4e0d828dc337" />
+
 
 **Finding**
 
