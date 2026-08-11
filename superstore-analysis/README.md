@@ -67,8 +67,9 @@ Business Recommendations
 
 **Finding**
 
-- Penjualan dan profit secara umum menunjukkan tren peningkatan selama periode analisis.
-- Terdapat beberapa periode dengan fluktuasi yang cukup signifikan sehingga perlu dianalisis lebih lanjut.
+- Tren meningkat: Penjualan dan profit secara umum menunjukkan tren peningkatan selama periode analisis. Penjualan mencapai nilai tertinggi pada Oktober 2017, sedangkan profit mencapai puncaknya pada Desember 2016.
+- Fluktuasi: Meskipun menunjukkan tren peningkatan, terdapat beberapa periode dengan fluktuasi penjualan dan profit yang cukup signifikan, sehingga perlu dianalisis lebih lanjut untuk mengidentifikasi faktor yang memengaruhinya.
+- Pola musiman: Terdapat pola berulang setelah Desember, ketika penjualan dan profit cenderung mengalami penurunan dibandingkan bulan sebelumnya. Pada beberapa periode, kondisi mulai membaik pada Februari, meskipun kenaikannya relatif kecil.
 
 ---
 
@@ -86,7 +87,7 @@ Business Recommendations
 
 **Finding**
 
-- Kategori Technology menghasilkan profit tertinggi.
+- Kategori Technology memiliki penjualan dan profit tertinggi.
 - Kategori Furniture memiliki penjualan yang tinggi, namun profit yang dihasilkan relatif lebih rendah dibandingkan kategori lainnya.
 
 ---
@@ -104,7 +105,7 @@ Business Recommendations
 
 **Finding**
 
-- Beberapa sub-kategori secara konsisten menghasilkan profit yang rendah.
+- Copiers memiliki profit tertinggi, sedangkan Tables memiliki profit terendah.
 - Sub-kategori dengan penjualan tinggi tidak selalu menghasilkan profit yang tinggi.
 
 ---
@@ -117,11 +118,13 @@ Business Recommendations
 
 **Visualization**
 
-![Top Product](images/top_product.png)
+<img width="593" height="319" alt="image" src="https://github.com/user-attachments/assets/44fdb5fe-844a-4114-9682-882833e2510c" />
+
 
 **Finding**
 
-- Sebagian kecil produk memberikan kontribusi yang signifikan terhadap total profit perusahaan.
+- Produk dengan profit tertinggi didominasi oleh perangkat printing dan copying. Canon imageCLASS 2200 Advanced Copier menjadi produk dengan profit tertinggi, sehingga produk pada segmen tersebut berpotensi menjadi kontributor penting terhadap profit perusahaan.
+- Namun, profit tinggi pada produk tertentu belum tentu mencerminkan performa keseluruhan sub-kategori, sehingga analisis dapat dilanjutkan dengan membandingkan profit dengan discount untuk memahami faktor yang mendorong profitabilitas.
 
 ---
 
@@ -133,35 +136,39 @@ Business Recommendations
 
 **Visualization**
 
-![Discount](images/discount_analysis.png)
+<img width="699" height="342" alt="image" src="https://github.com/user-attachments/assets/22a99a79-22e0-4fdf-838a-46b3510caec4" />
+
 
 **Finding**
 
-- Peningkatan tingkat diskon cenderung diikuti dengan penurunan rata-rata profit.
+- Profit cenderung menurun pada tingkat diskon yang lebih tinggi, dengan rata-rata profit mulai negatif pada diskon 30% dan mencapai titik terendah pada diskon 50%.
+- Namun, hubungan antara diskon dan profit tidak sepenuhnya linear, terlihat dari peningkatan kembali rata-rata profit pada diskon 60%. Hal ini mengindikasikan bahwa diskon berpotensi memengaruhi profitabilitas, tetapi terdapat faktor lain yang juga perlu dipertimbangkan.
 
 ---
 
 ## 💡 Business Recommendations
 
-- Review pricing strategies for low-profit categories.
-- Optimize discount policies to improve profitability.
-- Focus marketing efforts on high-profit products.
-- Monitor underperforming products regularly.
+- Evaluasi strategi harga pada sub-kategori dengan profit rendah untuk meningkatkan margin keuntungan dan mengidentifikasi produk yang kurang menguntungkan.
+- Optimalkan kebijakan diskon dengan mengevaluasi tingkat diskon yang memberikan dampak positif terhadap penjualan tanpa menurunkan profitabilitas secara signifikan.
+- Fokuskan strategi pemasaran pada produk dengan profit tinggi, terutama produk yang secara konsisten memberikan kontribusi besar terhadap profit perusahaan.
+- Lakukan pemantauan berkala terhadap produk dan sub-kategori dengan performa rendah untuk mengidentifikasi perubahan tren dan mengambil tindakan korektif lebih awal.
+- Manfaatkan pola peningkatan penjualan pada awal tahun dengan merancang kampanye New Year Sale atau promosi awal Januari secara terencana. Pola berulang pada data menunjukkan adanya peningkatan aktivitas penjualan pada periode tersebut, sehingga momentum ini dapat dimanfaatkan untuk mendorong penjualan dan profit.
 
 ---
 
 ## 📊 Dashboard Preview
 
-The interactive dashboard summarizes all analyses into a single view for business monitoring.
+Dashboard interaktif merangkum seluruh analisis dalam satu tampilan untuk memudahkan pemantauan kinerja bisnis.
 
-![Dashboard](images/dashboard.png)
+<img width="403" height="539" alt="image" src="https://github.com/user-attachments/assets/5baf120e-c343-473c-9d7c-e6016cec13ba" />
+
 
 ---
 
 
 ## 👤 Author
 
-**Your Name**
+**Dewi Wahidatul Karimah**
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
+- GitHub: https://github.com/dewi31
+- LinkedIn: https://www.linkedin.com/in/dewi-wahidatul-karimah/
