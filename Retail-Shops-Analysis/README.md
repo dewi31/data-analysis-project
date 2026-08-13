@@ -172,36 +172,24 @@ Business Recommendations
 - ⚠️ Catatan: Hubungan yang terlihat pada data menunjukkan adanya pola atau association, bukan berarti temperatur secara langsung menyebabkan perubahan penjualan.
 ---
 
-
-## 💡 Business Recommendations
-
-- Meningkatkan Performa Toko
-
-Toko dengan performa penjualan yang lebih rendah dapat dianalisis lebih lanjut dengan membandingkan strategi dan karakteristik toko dengan toko yang memiliki performa lebih tinggi.
-
-- Menyesuaikan Strategi Berdasarkan Hari
-
-Jika terdapat perbedaan signifikan antara penjualan weekday dan weekend, strategi promosi dapat disesuaikan dengan periode ketika aktivitas pelanggan lebih tinggi.
-
-- Menyesuaikan Strategi dengan Karakteristik Pelanggan
-
-Komposisi gender dan tipe pelanggan dapat digunakan sebagai salah satu pertimbangan dalam menentukan target promosi dan strategi pemasaran.
-
-- Mempertimbangkan Faktor Temperatur
-
-Jika terdapat pola yang cukup jelas antara temperatur dan penjualan, informasi temperatur dapat dipertimbangkan dalam perencanaan promosi, persediaan, dan aktivitas operasional.
-
-- Menggunakan Dashboard untuk Monitoring
-
-Dashboard dapat digunakan secara berkala untuk memantau perubahan performa toko dan mengidentifikasi pola penjualan yang membutuhkan perhatian lebih lanjut.
-
----
-
 ## 📊 Dashboard Preview
 
-Dashboard interaktif merangkum seluruh analisis dalam satu tampilan untuk memudahkan pemantauan kinerja bisnis.
+Dashboard dibuat menggunakan Power BI untuk memberikan gambaran menyeluruh mengenai performa penjualan dan karakteristik pelanggan.
 
 <img width="403" height="539" alt="image" src="https://github.com/user-attachments/assets/5baf120e-c343-473c-9d7c-e6016cec13ba" />
 
+---
+
+## 💡 Business Recommendations
+
+- **Meningkatkan performa toko**: toko dengan performa penjualan yang lebih rendah dapat dianalisis lebih lanjut dengan membandingkan strategi dan karakteristik toko dengan toko yang memiliki performa lebih tinggi.
+
+- **Menyesuaikan strategi berdasarkan hari**: jika terdapat perbedaan signifikan antara penjualan weekday dan weekend, strategi promosi dapat disesuaikan dengan periode ketika aktivitas pelanggan lebih tinggi.
+
+- **Menyesuaikan strategi dengan karakteristik pelanggan**, komposisi gender dan tipe pelanggan dapat digunakan sebagai salah satu pertimbangan dalam menentukan target promosi dan strategi pemasaran.
+
+- **Mempertimbangkan faktor temperatur**, jika terdapat pola yang cukup jelas antara temperatur dan penjualan, informasi temperatur dapat dipertimbangkan dalam perencanaan promosi, persediaan, dan aktivitas operasional.
+
+- **Menggunakan dashboard untuk monitoring**, dashboard dapat digunakan secara berkala untuk memantau perubahan performa toko dan mengidentifikasi pola penjualan yang membutuhkan perhatian lebih lanjut.
 
 ---
