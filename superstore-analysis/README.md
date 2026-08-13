@@ -164,3 +164,10 @@ Dashboard interaktif merangkum seluruh analisis dalam satu tampilan untuk memuda
 
 
 ---
+
+## 👤 Author
+
+**Dewi Wahidatul Karimah**
+
+- GitHub: https://github.com/dewi31
+- LinkedIn: https://www.linkedin.com/in/dewi-wahidatul-karimah/
