@@ -71,7 +71,7 @@ Business Recommendations
 
 **Visualization**
 
-<img width="825" height="326" alt="image" src="https://github.com/user-attachments/assets/dabc3bd2-ab37-43db-86c0-0d7349a77d13" />
+<img width="1061" height="410" alt="image" src="https://github.com/user-attachments/assets/5754bbc1-d652-414e-99d9-28dbe5f49151" />
 
 
 **Finding**
@@ -90,8 +90,7 @@ Business Recommendations
 
 **Visualization**
 
-<img width="529" height="387" alt="image" src="https://github.com/user-attachments/assets/dfcc6205-6495-4950-8f5f-fb80df2a7bb6" />
-
+<img width="397" height="369" alt="image" src="https://github.com/user-attachments/assets/14e2da11-7ca0-48ff-a2b3-b306fa2323dd" />
 
 
 **Finding**
@@ -109,7 +108,8 @@ Business Recommendations
 
 **Visualization**
 
-<img width="942" height="373" alt="image" src="https://github.com/user-attachments/assets/6ad04267-add4-45d3-bdf3-4e0d828dc337" />
+<img width="350" height="303" alt="image" src="https://github.com/user-attachments/assets/ac29dcb8-5069-4e27-b903-55ee80d14fa3" />
+
 
 
 **Finding**
@@ -127,7 +127,8 @@ Business Recommendations
 
 **Visualization**
 
-<img width="593" height="319" alt="image" src="https://github.com/user-attachments/assets/44fdb5fe-844a-4114-9682-882833e2510c" />
+<img width="348" height="302" alt="image" src="https://github.com/user-attachments/assets/fc5bd917-d82a-4f98-abaa-9809d10f3c8c" />
+
 
 
 **Finding**
@@ -145,7 +146,7 @@ Business Recommendations
 
 **Visualization**
 
-<img width="699" height="342" alt="image" src="https://github.com/user-attachments/assets/22a99a79-22e0-4fdf-838a-46b3510caec4" />
+<img width="340" height="300" alt="image" src="https://github.com/user-attachments/assets/2aafafd2-1313-4995-992b-10f782723663" />
 
 
 **Finding**
@@ -163,7 +164,8 @@ Business Recommendations
 
 **Visualization**
 
-<img width="699" height="342" alt="image" src="https://github.com/user-attachments/assets/22a99a79-22e0-4fdf-838a-46b3510caec4" />
+<img width="1014" height="393" alt="image" src="https://github.com/user-attachments/assets/b3f67f9a-6439-4b6a-9760-aa54e70e89ed" />
+
 
 
 **Finding**
@@ -176,7 +178,8 @@ Business Recommendations
 
 Dashboard dibuat menggunakan Power BI untuk memberikan gambaran menyeluruh mengenai performa penjualan dan karakteristik pelanggan.
 
-<img width="403" height="539" alt="image" src="https://github.com/user-attachments/assets/5baf120e-c343-473c-9d7c-e6016cec13ba" />
+<img width="2767" height="1600" alt="retail_analysis-1" src="https://github.com/user-attachments/assets/a7cdb47f-f5f2-415a-ba47-3e526f569019" />
+
 
 ---
 
