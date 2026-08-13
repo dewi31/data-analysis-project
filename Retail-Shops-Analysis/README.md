@@ -6,7 +6,7 @@
 
 Proyek ini berfokus pada analisis tren penjualan, performa setiap toko, perbedaan penjualan pada hari kerja dan akhir pekan, karakteristik pelanggan berdasarkan gender dan status keluarga, serta hubungan antara temperatur dan penjualan.
 
-Proses analisis dilakukan menggunakan **MySQL** untuk pengolahan dan analisis data, kemudian **Power BI** untuk membuat dashboard interaktif dan menyampaikan insight bisnis.
+Proses analisis dilakukan menggunakan **MySQL** untuk pembuatan database dan pengolahan data, kemudian **Power BI** untuk membuat dashboard interaktif dan menyampaikan insight bisnis.
 
 ---
 
@@ -76,9 +76,7 @@ Business Recommendations
 
 **Finding**
 
-- Tren meningkat: Penjualan dan profit secara umum menunjukkan tren peningkatan selama periode analisis. Penjualan mencapai nilai tertinggi pada Oktober 2017, sedangkan profit mencapai puncaknya pada Desember 2016.
-- Fluktuasi: Meskipun menunjukkan tren peningkatan, terdapat beberapa periode dengan fluktuasi penjualan dan profit yang cukup signifikan, sehingga perlu dianalisis lebih lanjut untuk mengidentifikasi faktor yang memengaruhinya.
-- Pola musiman: Terdapat pola berulang setelah Desember, ketika penjualan dan profit cenderung mengalami penurunan dibandingkan bulan sebelumnya. Pada beberapa periode, kondisi mulai membaik pada Februari, meskipun kenaikannya relatif kecil.
+- Tren mengalami naik turun 
 
 ---
 
