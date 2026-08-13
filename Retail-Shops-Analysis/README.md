@@ -76,7 +76,7 @@ Business Recommendations
 
 **Finding**
 
-- Tren mengalami naik turun 
+- Selama periode 2023–2024, penjualan menunjukkan pola yang berfluktuasi dari waktu ke waktu. Salah satu pola yang terlihat adalah adanya penurunan penjualan pada bulan April di kedua tahun tersebut. Setelah mengalami penurunan, penjualan kembali menunjukkan peningkatan dan cenderung lebih tinggi pada periode Juli hingga Oktober.
 
 ---
 
@@ -93,8 +93,7 @@ Business Recommendations
 
 **Finding**
 
-- Kategori Technology memiliki penjualan dan profit tertinggi.
-- Kategori Furniture memiliki penjualan yang tinggi, namun profit yang dihasilkan relatif lebih rendah dibandingkan kategori lainnya.
+- Terdapat perbedaan performa penjualan antar lokasi. Miami Beach memiliki kontribusi penjualan paling besar dibandingkan toko lainnya, sementara Jacksonville memiliki penjualan paling rendah di antara empat lokasi yang dianalisis.
 
 ---
 
@@ -112,8 +111,8 @@ Business Recommendations
 
 **Finding**
 
-- Copiers memiliki profit tertinggi, sedangkan Tables memiliki profit terendah.
-- Sub-kategori dengan penjualan tinggi tidak selalu menghasilkan profit yang tinggi.
+- Penjualan pada akhir pekan mencapai 53,09%, lebih tinggi dibandingkan penjualan pada hari kerja yang berada di sekitar 46,91%.
+- Hal ini menunjukkan bahwa aktivitas penjualan cenderung sedikit lebih tinggi pada akhir pekan dibandingkan hari kerja. Meskipun perbedaannya tidak terlalu besar, akhir pekan tetap menjadi periode yang berpotensi untuk dimanfaatkan dalam meningkatkan penjualan.
 
 ---
 
@@ -131,9 +130,8 @@ Business Recommendations
 
 **Finding**
 
-- Produk dengan profit tertinggi didominasi oleh perangkat printing dan copying. Canon imageCLASS 2200 Advanced Copier menjadi produk dengan profit tertinggi, sehingga produk pada segmen tersebut berpotensi menjadi kontributor penting terhadap profit perusahaan.
-- Namun, profit tinggi pada produk tertentu belum tentu mencerminkan performa keseluruhan sub-kategori, sehingga analisis dapat dilanjutkan dengan membandingkan profit dengan discount untuk memahami faktor yang mendorong profitabilitas.
-
+- Pelanggan perempuan memiliki proporsi yang sedikit lebih tinggi dibandingkan pelanggan laki-laki, yaitu sebesar 51,04%.
+- Komposisi pelanggan berdasarkan gender relatif cukup seimbang, meskipun pelanggan perempuan memiliki proporsi yang sedikit lebih besar.
 ---
 
 ### 5. Single vs Family Customers
@@ -149,8 +147,8 @@ Business Recommendations
 
 **Finding**
 
-- Profit cenderung menurun pada tingkat diskon yang lebih tinggi, dengan rata-rata profit mulai negatif pada diskon 30% dan mencapai titik terendah pada diskon 50%.
-- Namun, hubungan antara diskon dan profit tidak sepenuhnya linear, terlihat dari peningkatan kembali rata-rata profit pada diskon 60%. Hal ini mengindikasikan bahwa diskon berpotensi memengaruhi profitabilitas, tetapi terdapat faktor lain yang juga perlu dipertimbangkan.
+- Pelanggan single memiliki proporsi sebesar 53,32%, sedikit lebih tinggi dibandingkan pelanggan yang sudah berkeluarga.
+- Mayoritas pelanggan dalam dataset merupakan pelanggan single, meskipun perbedaannya dengan pelanggan family tidak terlalu besar.
 
 ---
 
@@ -168,8 +166,8 @@ Business Recommendations
 
 **Finding**
 
-- Profit cenderung menurun pada tingkat diskon yang lebih tinggi, dengan rata-rata profit mulai negatif pada diskon 30% dan mencapai titik terendah pada diskon 50%.
-- ⚠️ Catatan: Hubungan yang terlihat pada data menunjukkan adanya pola atau association, bukan berarti temperatur secara langsung menyebabkan perubahan penjualan.
+- Visualisasi menunjukkan adanya pola hubungan antara temperatur dan penjualan, di mana peningkatan temperatur pada rentang tertentu cenderung diikuti dengan peningkatan penjualan. Namun, ketika temperatur semakin tinggi, penjualan juga terlihat mulai mengalami sedikit penurunan.
+- Hal ini menunjukkan bahwa hubungan antara temperatur dan penjualan tidak sepenuhnya linear. Penjualan dapat meningkat hingga mencapai rentang temperatur tertentu, tetapi peningkatan temperatur yang terlalu tinggi belum tentu terus diikuti oleh peningkatan penjualan.
 ---
 
 ## 📊 Dashboard Preview
@@ -183,14 +181,13 @@ Dashboard dibuat menggunakan Power BI untuk memberikan gambaran menyeluruh menge
 
 ## 💡 Business Recommendations
 
-- **Meningkatkan performa toko**: toko dengan performa penjualan yang lebih rendah dapat dianalisis lebih lanjut dengan membandingkan strategi dan karakteristik toko dengan toko yang memiliki performa lebih tinggi.
+- Optimalkan promosi berdasarkan pola penjualan — manfaatkan periode penjualan tinggi seperti akhir pekan dan siapkan promo khusus pada periode penjualan yang cenderung menurun atau pada momen perayaan tertentu.
 
-- **Menyesuaikan strategi berdasarkan hari**: jika terdapat perbedaan signifikan antara penjualan weekday dan weekend, strategi promosi dapat disesuaikan dengan periode ketika aktivitas pelanggan lebih tinggi.
+- Tingkatkan performa toko dengan benchmarking — gunakan praktik dari toko dengan performa tinggi sebagai referensi untuk mengevaluasi dan meningkatkan toko dengan penjualan lebih rendah.
 
-- **Menyesuaikan strategi dengan karakteristik pelanggan**, komposisi gender dan tipe pelanggan dapat digunakan sebagai salah satu pertimbangan dalam menentukan target promosi dan strategi pemasaran.
+- Sesuaikan strategi dengan karakteristik pelanggan — gunakan informasi gender dan tipe pelanggan sebagai pertimbangan dalam menentukan produk, bundling, dan target promosi, tanpa terlalu membatasi strategi pada satu kelompok.
 
-- **Mempertimbangkan faktor temperatur**, jika terdapat pola yang cukup jelas antara temperatur dan penjualan, informasi temperatur dapat dipertimbangkan dalam perencanaan promosi, persediaan, dan aktivitas operasional.
+- Pertimbangkan temperatur dalam perencanaan operasional — gunakan pola temperatur dan penjualan sebagai informasi tambahan untuk mengantisipasi perubahan permintaan dan menyesuaikan persediaan maupun promosi.
 
-- **Menggunakan dashboard untuk monitoring**, dashboard dapat digunakan secara berkala untuk memantau perubahan performa toko dan mengidentifikasi pola penjualan yang membutuhkan perhatian lebih lanjut.
 
 ---
